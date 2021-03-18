@@ -3,7 +3,7 @@
 
     The Purpose of the analysis is to be able to come up with different data visuals to represent the overall census of those who take citibike in New York City. There are many ways to represent the data model in Tableau, whether that would be a map that represents the most popular starting point, the heatmap that shows frequency of bikes used, or even different line charts and pie charts that show the gender frequency of the bike sharing company. Using Tableau and the visualizations provides a tool that grants a deep insight on how a business may run.
     
-![Tableau Link](https://public.tableau.com/views/citiBikeChallenge/BikeVisualization?:language=en&:display_count=y&:origin=viz_share_link)
+[Tableau Link](https://public.tableau.com/views/citiBikeChallenge/BikeVisualization?:language=en&:display_count=y&:origin=viz_share_link)
 
 **Data Models
 
